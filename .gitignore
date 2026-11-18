@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# LaTeX build files (keep .tex and final .pdf)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Local Claude Code settings
+.claude/settings.local.json
